@@ -1,0 +1,19 @@
+first_stock:
+  book: first_bloomsbury_book
+  shop: first_shop
+  value: 8
+
+second_stock:
+  book: second_bloomsbury_book
+  shop: second_shop
+  value: 0
+
+third_stock:
+  book: first_faber_book
+  shop: first_shop
+  value: 16
+
+fourth_stock:
+  book: second_faber_book
+  shop: second_shop
+  value: 42

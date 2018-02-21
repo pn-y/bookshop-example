@@ -1,0 +1,19 @@
+first_bloomsbury_book:
+  title: $LABEL
+  isbn: $LABEL
+  publisher: Bloomsbury
+
+second_bloomsbury_book:
+  title: $LABEL
+  isbn: $LABEL
+  publisher: Bloomsbury
+
+first_faber_book:
+  title: $LABEL
+  isbn: $LABEL
+  publisher: Faber
+
+second_faber_book:
+  title: $LABEL
+  isbn: $LABEL
+  publisher: Faber
